@@ -1,3 +1,3 @@
 # Python
-Python Problems
+Python Problems.
 Basic python exercises using data structures and algotrithms
